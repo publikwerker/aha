@@ -1,9 +1,9 @@
 import React from 'react';
-import './App.css';
+import './Learning.css';
 import Confusion from './NewInformation';
 import Understanding from './DiligentStudy';
 
-export default class App extends React.Component {
+export default class BetterLife extends React.Component {
   constructor(props){
     super(props);
     this.state =
@@ -23,14 +23,14 @@ export default class App extends React.Component {
     if 
     (this.state.mentalState==='Confusion'){
       return (
-        <div className="App">
+        <div className="Study">
           <Confusion 
           onClick={() => {this.bringUnderstanding()}}/>
         </div>
       );
     } else if (this.state.mentalState==='Understanding'){
       return (
-        <div className="App">
+        <div className="Study">
           <Understanding />
         </div>
       );

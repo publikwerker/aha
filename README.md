@@ -1,6 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## path-to-understanding
 
-my first, official, React app.
-i made it to help me reach Understanding.
+My first, official, React app.
+The purpose of this was to attach metaphors to the different functions as an aide to help me reach Understanding.
+
+_Aha_ is more of a conceptual piece. 
+The most interesting parts are in the code, itself.
+Using namespacing, I wrote a javascript poem.

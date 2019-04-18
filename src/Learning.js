@@ -1,5 +1,4 @@
 import React from 'react';
-import './Learning.css';
 import Confusion from './NewInformation';
 import Understanding from './DiligentStudy';
 

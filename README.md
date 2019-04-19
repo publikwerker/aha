@@ -5,4 +5,4 @@ The purpose of this was to attach metaphors to the different functions as an aid
 
 _Aha_ is more of a conceptual piece. 
 The most interesting parts are in the code, itself.
-Using namespacing, I wrote a javascript poem.
+Using namespacing, I wrote a javascript parable.
